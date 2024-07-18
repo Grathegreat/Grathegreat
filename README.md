@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hello, I'm Grathegreat!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?style=flat-square&logo=twitter&label=Follow&logoColor=white&color=1da1f2" alt="Twitter"></a>
+  <a href="https://www.facebook.com/Mr.Grathegreat"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Mr.Grathegreat" alt="Facebook"></a>
   <a href="https://github.com/Grathegreat"><img src="https://img.shields.io/github/followers/Grathegreat?style=flat-square&logo=github&label=Follow&logoColor=white&color=black" alt="GitHub Followers"></a>
 </p>
 
