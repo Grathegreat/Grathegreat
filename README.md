@@ -17,9 +17,9 @@
 
 🚀 Here are some projects I'm currently working on:
 
-- [chat-app](https://github.com/Grathegreat/chat-app): Short description.
-- [chat-app2](https://github.com/Grathegreat/chat-app2): Short description.
-- [chat-app3](https://github.com/Grathegreat/chat-app3): Short description.
+- [chat-app](https://github.com/Grathegreat/chat-app): Real time chat-app using node.js socket.io.
+- [chat-app2](https://github.com/Grathegreat/chat-app2): Real time chat-app using node.js socket.io.
+- [chat-app3](https://github.com/Grathegreat/chat-app3): Real time chat-app using node.js socket.io.
 
 ## Skills
 
@@ -31,7 +31,7 @@
 
 📫 Let's connect and chat:
 
-- Facebook: [1.jpeg](https://www.facebook.com/Gra.the.great.0812)
-- Facebook 2: [2.jpeg](https://www.facebook.com/Mr.Grathegreat)
+- Facebook: [Grathegreat](https://www.facebook.com/Gra.the.great.0812)
+- Facebook 2: [Mot Oyamat](https://www.facebook.com/Mr.Grathegreat)
 
 Feel free to explore my repositories and reach out for any collaboration or questions!
